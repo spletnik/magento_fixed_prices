@@ -1,1 +1,4 @@
-# magento_fixed_prices
+# Magento Fixed Prices
+
+## Installation
+More info about installation is [here](doc/INSTALL.md).

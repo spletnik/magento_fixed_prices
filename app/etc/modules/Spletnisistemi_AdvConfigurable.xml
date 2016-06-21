@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Spletnisistemi_AdvConfigurable>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Spletnisistemi_AdvConfigurable>
+    </modules>
+</config> 
